@@ -2,6 +2,16 @@
     "name": "pulsephp/pulse",
     "description": "💗 PulsePHP: async library provide event loop, promises and async/await like syntax.",
     "type": "library",
+    "keywords": [
+        "pulse",
+        "pulsephp",
+        "async",
+        "await",
+        "async-await",
+        "event-loop",
+        "promise",
+        "non-blocking I/O"
+    ],
     "require": {
         "php": "^8.1"
     },
