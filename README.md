@@ -1,5 +1,13 @@
 # PulsePHP
 
+PulsePHP: async library provide event loop, promises and async/await like syntax. Built-in top on `Fiber`, `SplQueue`, and `stream_select()`. 
+
+## Install
+If you install this library, make sure install `PHP 8.1 +` or latest version in your system.
+
+```bash
+composer require pulsephp/pulse
+```
 
 ## Example
 
