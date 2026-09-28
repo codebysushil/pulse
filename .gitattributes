@@ -1,0 +1,19 @@
+* text=auto eol=lf
+
+*.php text eol=lf diff=php
+*.json text eol=lf diff=json
+*.md text eol=lf diff=markdown
+*.xml text eol=lf diff=xml
+*.yml text eol=lf diff=yaml
+
+*.jpg binary
+*.png binary
+
+/.github/       export-ignore
+/.gitattributes export-ignore
+/.gitignore     export-ignore
+/.editorconfig  export-ignore
+/examples/      export-ignore
+/tests/         export-ignore
+/CHANGELOG.md   export-ignore
+
