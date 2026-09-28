@@ -10,7 +10,7 @@
         "async-await",
         "event-loop",
         "promise",
-        "non-blocking I/O"
+        "non-blocking"
     ],
     "require": {
         "php": "^8.1"
